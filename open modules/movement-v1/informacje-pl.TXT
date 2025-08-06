@@ -1,3 +1,5 @@
+PLIK ZAWIERA TYLKO 1 MODUŁ - NIE JEST TO KOMPLETNY PROGRAM!!!
+
 Plik ma dołączone wszystkie wymagane biblioteki.
 Plik nie zawiera zainicjalizowanych obiektów, ani ich typów danych.
 
