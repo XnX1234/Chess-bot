@@ -1,3 +1,8 @@
+/*
+COPYRIGHT (C) XnX1234 2025
+
+
+*/
 #include <vector>
 
 int main()
