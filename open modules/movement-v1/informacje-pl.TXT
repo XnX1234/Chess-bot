@@ -1,0 +1,7 @@
+Plik ma dołączone wszystkie wymagane biblioteki.
+Plik nie zawiera zainicjalizowanych obiektów, ani ich typów danych.
+
+Bez utworzenia nie zawartych rzeczy kod jest niekompletny i niezdatny do kompilacji.
+
+
+PRZESTRZEGAJ LICENCJI!!!
