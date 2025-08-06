@@ -1,0 +1,4 @@
+#OPEN MODULES
+<p />
+<h2>Informacje</h2>
+W tym katalogu znajdziesz wszystkie otwarte miduły wyjęte z projektu. Każdy moduł znajdyje się w odpowiednim folderze gdzie jest również zawarta jego LICENCJA. Licencja jest zawarta w pliku LICENSE.
