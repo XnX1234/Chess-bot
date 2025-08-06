@@ -1,4 +1,3 @@
-
 Custom License – Non-commercial only, mandatory public release of modifications, license may not be changed
 
 Copyright (c) 2025 XnX1234
@@ -9,10 +8,11 @@ Use in any commercial, academic, research, or revenue-generating context is stri
 
 2. Modifications and public release  
 You may modify the code for non-commercial use only.  
-Every modified version must be **publicly released** with a clear description of the changes and full attribution to the original author.
+Every modified version must be **publicly released**, clearly documenting the changes and maintaining original author attribution.
 
 3. No redistribution of the original  
-Redistribution or publication of the original (unmodified) version of the code is forbidden without the author's written consent.
+Redistribution or publication of the original (unmodified) version of the code is forbidden without written permission from the author.  
+If such permission is granted, **a full copy of this license must be included** with every distribution.
 
 4. Author attribution  
 All versions (original or modified) must include the following notice:  
@@ -20,15 +20,18 @@ All versions (original or modified) must include the following notice:
 
 5. No removal or modification of comments  
 All comments in the original code must be preserved **unaltered**.  
-Removing, editing, or obscuring them in any way is prohibited.
+Removing, modifying, or hiding them is strictly prohibited.
 
 6. No license changes  
-Both original and modified versions of the code must be distributed under this same license.  
-**Changing the license is not allowed.**
+Both original and modified versions of the code must be distributed under this **same license**.  
+**Changing the license is forbidden.**
 
-7. Educational citation  
+7. License inclusion required  
+Each version of the code (original or modified) **must include a full copy** of this license (e.g., LICENSE-PL and LICENSE-EN).
+
+8. Educational citation  
 For the purposes of this license, “educational purposes” means activities involving teaching, training, or imparting knowledge to others (e.g., in courses, workshops, classroom or academic settings).  
-In such cases, the code may only be cited in its entirety, without removal or modification of comments or author attribution.
+In such cases, the code may only be cited **in its entirety**, without removal or modification of comments or author attribution.
 
-8. No warranty  
-This code is provided “as is” without warranty of any kind. The author is not liable for any damages resulting from its use.
+9. No warranty  
+This code is provided “as is” without any warranty. The author is not responsible for any damages resulting from its use.
