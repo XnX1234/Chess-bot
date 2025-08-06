@@ -1,7 +1,7 @@
 /*
 COPYRIGHT (C) XnX1234 2025
 
- * This code is licensed under a custom license — see LICENSE (English) and LICENSE-PL (Polish) files for details.
+ * This code is licensed under a custom license — see LICENSE-EN (English) and LICENSE-PL (Polish) files for details.
  * Non-commercial and non-research use only.
  * Modifications must be publicly released.
  * All comments and author attribution must be preserved.
