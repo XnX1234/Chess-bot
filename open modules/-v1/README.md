@@ -1,6 +1,6 @@
-ten moduł jest w trakcie udostępnia...
+ten moduł jest w trakcie udostępnia... <br >
 proszę o odwiedzenie tego modułu później 
+<br/>
 
-
-proszę o cierpliwość 
+proszę o cierpliwość <br />
 dziękuję
